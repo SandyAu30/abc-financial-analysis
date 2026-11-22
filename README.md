@@ -16,6 +16,11 @@ This project develops an integrated financial analysis and business intelligence
 It transforms raw financial data into actionable management insights through data cleaning, financial analysis, budget variance analysis, data modelling, and interactive Power BI dashboards.
 
 The project evaluates overall financial performance, compares actual results against budget targets, and analyses profitability across different business departments.
+<div align="center">
+<img src="Screenshots Preview/Dashboard1.png" width="300">
+<img src="Screenshots Preview/Dashboard2.png" width="300">
+<img src="Screenshots Preview/Dashboard3.png" width="300">
+</div>
 
 ## 2. Project Objectives
 
@@ -88,6 +93,9 @@ The project uses simulated FY2025 financial data covering January to December 20
 - Developed a dimensional data model with date, department, and category dimensions, alongside actual and budget fact tables.
 - Established relationships between dimension and fact tables.
 - Created DAX measures for financial KPIs, budget comparisons, and variance calculations.
+<p align="center">
+  <img src="Screenshots Preview/Relationships.png" width="700">
+</p>
 
 ### 5.4 Dashboard Development — Power BI
 
