@@ -17,7 +17,7 @@ It transforms raw financial data into actionable management insights through dat
 
 The project evaluates overall financial performance, compares actual results against budget targets, and analyses profitability across different business departments.
 <p align="center">
- <img src="Preview1,png" width="7--">
+ <img src="Preview1.png" width="7--">
 </p>
 
 ## 2. Project Objectives
