@@ -16,6 +16,9 @@ This project develops an integrated financial analysis and business intelligence
 It transforms raw financial data into actionable management insights through data cleaning, financial analysis, budget variance analysis, data modelling, and interactive Power BI dashboards.
 
 The project evaluates overall financial performance, compares actual results against budget targets, and analyses profitability across different business departments.
+<p align="center">
+ <img src="Preview1,png" width="7--">
+</p>
 
 ## 2. Project Objectives
 
