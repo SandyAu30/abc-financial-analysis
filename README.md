@@ -165,3 +165,6 @@ Potential improvements include:
 **Project Status: Completed**
 
 *This project was developed for educational and portfolio purposes using simulated financial data.*
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
